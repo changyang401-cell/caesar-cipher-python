@@ -21,13 +21,21 @@ HELLO
 Ciphertext
 KHOOR
 
+
 Version History
+
 Version 1.0
+
 File: Caesar_encrypt_and_decrypt.py
+
 Description
+
 The initial implementation of the Caesar Cipher algorithm. This version provides the core encryption and decryption functions and demonstrates their usage with a predefined encrypted message.
 
 Version 2.0
+
 File: UPD_Caesar_encrypt_and_decrypt.py
+
 Description
+
 An enhanced version of the project featuring an interactive command-line interface. Users can encrypt or decrypt messages directly from the terminal without modifying the source code, resulting in a more user-friendly experience.
